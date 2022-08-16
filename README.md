@@ -4,7 +4,7 @@
 
 ## Requirements
 
-- To build this project on a computer that doesn't use an ARM processor, you'll need a cross-compiler, which can be downloaded [here](https://developer.arm.com/open-source/gnu-toolchain/gnu-rm/downloads).  If you have an ARM processor, you should be able to use regular gcc.  Make sure to update the makefile in the build directory so you use the right compiler.
+- To build this project on a computer that doesn't use an ARM processor, you'll need a cross-compiler (specifically gcc-arm-none-eabi), which can be downloaded [here](https://developer.arm.com/open-source/gnu-toolchain/gnu-rm/downloads).  If you have an ARM processor, you should be able to use regular gcc.  Make sure to update the makefile in the build directory so you use the right compiler.
 
 ## Credits
 
